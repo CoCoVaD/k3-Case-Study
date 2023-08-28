@@ -41,4 +41,4 @@ NOTE: This material is available in the `src` folder of this repo.
 The BASAALT (Behaviour Analysis & Simulation All Along systems Life Time) systems engineering method, 
 and its supporting language, FORM-L (FOrmal Requirements Modelling Language) are advocated in our submission to the link:{cfp}[SoSyM Theme Section] on "Requirements Formalisation: From Text to Model-based." 
 
-NOTE: The full documentation is available in a PDF report link:doc/BASAALT and FORM-L V5-4.pdf[here].
+NOTE: The full documentation is available in a PDF report link:doc/BASAALT-and-FORM-L-V5-4.pdf[here].
