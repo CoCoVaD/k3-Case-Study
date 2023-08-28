@@ -1,8 +1,6 @@
-# k3c
-k3c case study requirements in Form-L 
-= k3C Case study in Form-L
+= k3 Case study in Form-L
 :favicon: images/cocovad-logo.png
-:version: 1.0
+:version: 2023.08.1
 // icons for GitHub
 ifdef::env-github[]
 :tip-caption: :bulb:
@@ -22,7 +20,7 @@ endif::[]
 image:https://img.shields.io/github/license/:jmbruel/:https://github.com/CoCoVaD/k3c[GitHub]
 //------------------------------------ Badges --------
 
-This repo is dedicated to the k3c case study requirements in Form-L.
+This repo is dedicated to the `k3` case study requirements using the <<basaalt,BASAALT>> systems engineering method.
 It collects the available material for repeatability and reproducibility.
 
 == Context
@@ -36,3 +34,11 @@ NOTE: This material is available in the `src` folder of this repo.
 - The initial text (link:src/k3_initial_requirements.docx[.docx])
 - The Data Model in Form-L (link:src/k3classes.docx[.docx])
 - The Requirements in Form-L (link:src/k3requirements.docx[.docx])
+
+[[basalt]]
+== The BASAALT Approach
+
+The BASAALT (Behaviour Analysis & Simulation All Along systems Life Time) systems engineering method, 
+and its supporting language, FORM-L (FOrmal Requirements Modelling Language) are advocated in our submission to the link:{cfp}[SoSyM Theme Section] on "Requirements Formalisation: From Text to Model-based." 
+
+NOTE: The full documentation is available in a PDF report link:doc/BASAALT and FORM-L V5-4.pdf[here].
