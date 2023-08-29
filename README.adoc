@@ -29,11 +29,11 @@ This case study is part of a link:{cfp}[SoSyM Theme Section] on "Requirements Fo
 
 == Available Material
 
-NOTE: This material is available in the `src` folder of this repo.
+NOTE: This material is available in the `doc` folder of this repo.
 
 - The initial text (link:src/k3_initial_requirements.docx[.docx])
-- The Data Model in Form-L (link:src/k3classes.docx[.docx])
-- The Requirements in Form-L (link:src/k3requirements.docx[.docx])
+- The Data Model in Form-L (link:src/k3DataModel.docx[.docx])
+- The Requirements in Form-L (link:src/k3Requirements.docx[.docx])
 
 [[basalt]]
 == The BASAALT Approach
