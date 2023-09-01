@@ -1,4 +1,4 @@
-= k3 Case study in Form-L
+= k3 Case study in BASAALT/Form-L
 :favicon: images/cocovad-logo.png
 :version: 2023.08.1
 // icons for GitHub
