@@ -31,9 +31,9 @@ This case study is part of a link:{cfp}[SoSyM Theme Section] on "Requirements Fo
 
 NOTE: This material is available in the `doc` folder of this repo.
 
-- The initial text (link:src/k3_initial_requirements.docx[.docx])
-- The Data Model in Form-L (link:src/k3DataModel.docx[.docx])
-- The Requirements in Form-L (link:src/k3Requirements.docx[.docx])
+- The initial text (link:doc/k3_initial_requirements.docx[.docx])
+- The Data Model in Form-L (link:doc/k3DataModel.pdf[.pdf])
+- The Requirements in Form-L (link:doc/k3Requirements.pdf[.pdf])
 
 [[basalt]]
 == The BASAALT Approach
@@ -41,4 +41,4 @@ NOTE: This material is available in the `doc` folder of this repo.
 The BASAALT (Behaviour Analysis & Simulation All Along systems Life Time) systems engineering method, 
 and its supporting language, FORM-L (FOrmal Requirements Modelling Language) are advocated in our submission to the link:{cfp}[SoSyM Theme Section] on "Requirements Formalisation: From Text to Model-based." 
 
-NOTE: The full documentation is available in a PDF report link:doc/BASAALT-and-FORM-L-V5-4.pdf[here].
+NOTE: The full documentation is available in a PDF report link:doc/BASAALT-and-FORM-L.pdf[here].
