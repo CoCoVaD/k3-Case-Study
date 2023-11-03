@@ -32,7 +32,7 @@ This case study is part of a link:{cfp}[SoSyM Theme Section] on "Requirements Fo
 NOTE: This material is available in the `doc` folder of this repo.
 
 - The initial text (link:doc/k3-initial-requirements.docx[.docx])
-- The Data Model in Form-L (link:doc/k3DataModel.pdf[.pdf])
+- The Data Model in Form-L (link:doc/k3Data.pdf[.pdf])
 - The Requirements in Form-L (link:doc/k3Requirements.pdf[.pdf])
 
 [[basalt]]
